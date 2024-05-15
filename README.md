@@ -36,9 +36,3 @@ The Streamlit-Powered AI Diabetes Risk Predictor is an interactive web applicati
 - pandas
 - numpy
 - pyngrok
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diabetes-risk-predictor.git
-   cd diabetes-risk-predictor
